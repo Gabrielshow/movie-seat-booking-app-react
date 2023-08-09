@@ -1,6 +1,6 @@
 import React , {useState} from "react";
-import Seat from "../components/Seat";
-import MovieSelector from "../components/MovieSelector";
+import Seat from "./components/Seat";
+import MovieSelector from "./components/MovieSelector";
 import "./App.css";
 
 const App = () => {
